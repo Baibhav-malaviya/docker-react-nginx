@@ -6,7 +6,9 @@ const App: React.FC = () => {
 				WE are on <span className="text-lg italic">aws-ecr</span> and as-well-as{" "}
 				<span className="text-lg italic">dockerHub</span>
 			</p>
-			<p className="p-10 m-5 text-xl font-semibold text-center text-rose-500 bg-rose-50"></p>
+			<p className="p-10 m-5 text-xl font-semibold text-center text-rose-500 bg-rose-50">
+				Resolving the push to aws-ecr issue
+			</p>
 		</div>
 	);
 };
